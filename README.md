@@ -3,9 +3,9 @@ P Finder is a GUI software application for the fast identification of the rnpB g
 
 
 ### Description
-  #### File Upload
-  #### Search Criteria
-  #### Display Options
+  ####    File Upload
+  ####    Search Criteria
+  ####    Display Options
   
 ### Installation
   #### Windows 
