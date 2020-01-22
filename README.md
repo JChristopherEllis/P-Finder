@@ -13,7 +13,7 @@ Bit score - The bit score, S', is derived from the raw alignment score, S, takin
 
 Minimum Sequence Length - The minimum length of a sequence length allowed
 
-Number of Threads - Number of threads to be used in parallel processing.
+Number of Threads - Number of threads to be used for parallel processing.
 
 Percent ID - A quantitative measurement of the similarity between two sequences. Closely related species are expected to have a higher percent identity for a given sequence than would more distantly related species, and thus percent identity to a degree reflects relatedness. 
 
