@@ -25,7 +25,7 @@ End location - location of the last nucleotide in the gene sequence
 
 Strand - sequence location on either the plus or minus strand
 
-Sequence - the dna sequence of the RNase P gene
+Sequence - the DNA sequence of the RNase P gene
   
 ### License
 This program is distributed under the BSD 3-clause "New" or "Revised" License
