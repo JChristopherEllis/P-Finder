@@ -5,6 +5,21 @@ P Finder is a GUI software application for the fast identification of RNase P RN
 ### Description
 P Finder is written in C# and has been tested in multiple 64-bit Windows environments (Windows 7/8/Vista). It has a user-friendly graphical user interface (GUI) that allows for intuitive RNase P RNA identification and/or annotation.  The user can select from four search criteria including the use multiple threads. In addition, the user can determine what display data they wish to incorporate in the output such as: bitscore, E-value, percent ID, start location, end location, the strand in which the sequence is located, and of course the sequence itself.  P Finder is the only available algorithm that is capable of not only identifying the RNase P RNA for annotation but also differentiating among the five different RNase P RNA structural types (A, B, C, M, and T) with the option to select these data types for display in the final output. 
 
+### Installation
+
+The installation is comprised of two zip files. 
+
+1) Download the extensions.zip folder
+2) Unzip the extentions.zip folder
+3) Place the  extensions folder in your C:\ drive so that the path is C:\extenstions
+
+Now install P-Finder
+
+1) download the PFinder.zip folder
+2) Unzip PFinder.zip
+3) Double click the setup icon and follow the instructions
+
+
 ### Options
 
 E value - The Expectation value or Expect value represents the number of different alignments with scores equivalent to or better than S that is expected to occur in a database search by chance. The lower the E value, the more significant the score and the alignment.
